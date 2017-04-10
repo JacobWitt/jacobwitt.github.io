@@ -1,0 +1,40 @@
+p.pages {
+  font-family: cursive;
+    letter-spacing: 5px;
+    }
+
+p.crowd {
+   font-family:fantasy;
+    text-align: justify;
+    letter-spacing: 10px;
+    }
+
+h3 {
+  font-family: inherit;
+    letter-spacing: 20px;
+}
+
+p.thought {
+  font-family:monospace;
+    letter-spacing: 30px;
+}
+
+p.never {
+  font-family: sans-serif;
+    letter-spacing: 40px;
+}
+
+p.history {
+  font-family: serif;
+    letter-spacing: 50px;
+}
+
+p.baring {
+    font-family: cursive
+    letter-spacing: 60px;
+}
+
+p.think {
+    font-family: fantasy;
+    letter-spacing: 70px;
+}

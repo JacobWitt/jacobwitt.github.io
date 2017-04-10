@@ -1,0 +1,37 @@
+p.pages {
+    display:block;
+    border: 60px dashed blue;
+    }
+
+p.crowd {
+    display:block;
+    border: 10px solid yellow;
+    }
+
+h3 {
+    display:block;
+    border: 50px dashed
+}
+
+p.thought {
+    display:block;
+    border: 20px solid yellow
+}
+
+p.never {
+    display:block;
+    border: 80px solid pink
+    
+}
+
+p.history {
+border: 10px dashed blue
+}
+
+p.baring {
+   border: 4px solid salmon
+}
+
+p.think {
+    border: 500px solid green
+}

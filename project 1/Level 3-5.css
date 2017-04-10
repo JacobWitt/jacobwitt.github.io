@@ -1,0 +1,39 @@
+p.pages {
+   height: 100px;
+    width: 100%;
+    }
+
+p.crowd {
+   height: 200px;
+    width: 50%;
+    }
+
+h3 {
+ height: 300px;
+    width: 40%;  
+}
+
+p.thought {
+ height: 400px;
+    width: 30%; 
+}
+
+p.never {
+  height: 500px;
+    width: 20%;
+}
+
+p.history {
+  height: 600px;
+    width: 10%;
+}
+
+p.baring {
+height: 700px;
+    width: 5%;
+}
+
+p.think {
+ height: 800px;
+    width: 1%;
+}

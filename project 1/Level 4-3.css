@@ -1,0 +1,68 @@
+p.pages {
+  font-family: monospace;
+    font-size: 16px;
+    color: fuchsia;
+    text-transform: full-width;
+    background-color: aqua;
+    font-weight: 700;
+    }
+
+p.crowd {
+   font-family: monospace;
+    font-size: 16px;
+    color:cornflowerblue;
+    text-transform: full-width;
+    background-color:darkslategray;
+    font-weight:800;
+    text-align: right;
+    }
+
+h3 {
+ font-family: monospace;
+    font-size: 16px;
+    color:white;
+    text-transform: full-width;
+    background-color: black;
+    font-weight:100;
+    text-align: ;left;
+    
+}
+
+p.thought {
+  font-family:Lucida Console;
+    font-size: 10px;
+    color:burlywood;
+    letter-spacing: 50px;
+    background-color: blue;
+    border: 10px solid pink;
+}
+
+p.never {
+   font-family:Georgia;
+    font-size: 10px;
+    color:cadetblue;
+    text-align:right;
+    border: 70px dashed;
+    
+}
+
+p.history {
+  font-family:Arial;
+    font-size: 20px;
+    color:coral;
+    background-color: blue;
+}
+
+p.baring {
+    font-family:monospace;
+    font-size: 20px;
+color:darkolivegreen;
+    background-color: pink;
+}
+
+p.think {
+    font-family:cursive;
+    font-size: 80px;
+color:darkslateblue;
+    border: 50px groove pink
+}

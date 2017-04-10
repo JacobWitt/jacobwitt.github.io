@@ -1,0 +1,60 @@
+p.pages {
+    display:block;
+    position: absolute;
+    left: 500px;
+    top: px;
+    border: 5px solid blue
+    }
+
+p.crowd {
+    display:block;
+    position: absolute;
+    left: 400px;
+    top: 90px;
+    border: 6px solid yellow
+    }
+
+h3 {
+    display:block;
+    position: absolute;
+    left: 400px;
+    top: 87px;
+    border: 8px solid salmon
+}
+
+p.thought {
+    display:block;
+    position: absolute;
+    left: 545px;
+    top: 211px; 
+    border: 20px solid green
+}
+
+p.never {
+    display:block;
+    position: absolute;
+    top: 300px;
+    border: 6px solid seashell
+    
+}
+
+p.history {
+position: absolute;
+    left: 70px;
+    top: 70px;
+    border: 1px solid goldenrod
+}
+
+p.baring {
+   position: absolute;
+    left: 20px;
+    top: 150px;
+    border: 3px solid steelblue
+}
+
+p.think {
+    position: absolute;
+    left: 100px;
+    top: 550px;
+    border: 70px solid springgreen
+}

@@ -1,0 +1,47 @@
+p.pages {
+  font-family: Verdana;
+    font-size: 10px;
+    color: antiquewhite;
+    }
+
+p.crowd {
+   font-family:Courier New;
+    font-size: 20px;
+    color: aqua;
+    }
+
+h3 {
+  font-family:Times New Roman;
+    font-size: 30px;
+    color:aquamarine;
+}
+
+p.thought {
+  font-family:Lucida Console;
+    font-size: 40px;
+    color:burlywood;
+}
+
+p.never {
+   font-family:Georgia;
+    font-size: 50px;
+    color:cadetblue;
+}
+
+p.history {
+  font-family:Arial;
+    font-size: 60px;
+    color:coral;
+}
+
+p.baring {
+    font-family:monospace;
+    font-size: 70px;
+    color:darkolivegreen;
+}
+
+p.think {
+    font-family:cursive;
+    font-size: 80px;
+    color:darkslateblue;
+}

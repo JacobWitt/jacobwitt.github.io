@@ -1,0 +1,52 @@
+p.pages {
+    display:block;
+    position: absolute;
+    left: 500px;
+    top: px;
+    }
+
+p.crowd {
+    display:block;
+    position: absolute;
+    left: 400px;
+    top: 90px;
+    }
+
+h3 {
+    display:block;
+    position: absolute;
+    left: 300px;
+    top: 90px;
+}
+
+p.thought {
+    display:block;
+    position: absolute;
+    left: 600px;
+    top: 150px; 
+}
+
+p.never {
+    display:block;
+    position: absolute;
+    top: 300px;
+    
+}
+
+p.history {
+position: absolute;
+    left: 70px;
+    top: 70px;
+}
+
+p.baring {
+   position: absolute;
+    left: 20px;
+    top: 150px;
+}
+
+p.think {
+    position: absolute;
+    left: 100px;
+    top: 550px; 
+}

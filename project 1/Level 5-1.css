@@ -1,0 +1,107 @@
+body {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/91/47/7c/91477c7d8d8e4c90eb1c04e21dcdab80.jpg");
+}
+.pages {
+	width: 128px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 50px;
+	top: 0px;
+}
+.crowd {
+	width: 128px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 188px;
+	top: -19px;
+}
+.screen {
+	width: 114px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 320px;
+	top: -37px;
+}
+.thought {
+	width: 185px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 437px;
+	top: -54px;
+}
+.never {
+	width: 185px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 247px;
+	top: -72px;
+}
+.history {
+	width: 185px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 59px;
+	top: -89px;
+}
+.bearing {
+	width: 185px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 249px;
+	top: -107px;
+}
+.think {
+	width: 185px;
+	background-color: blue;
+	color: aliceblue;
+	font-family: monospace;
+	position: relative;
+	border: 5px solid salmon;
+	left: 438px;
+	top: -125px;
+}
+.title {
+	font-family: monospace;
+	font-size: 40px;
+	color: blue;
+	position: relative;
+	left: 200px;
+	top: 398px;
+}
+.saccharine {
+	font-family: monospace;
+	font-size: 65px;
+	color: blue;
+	position: relative;
+	left: 20px;
+	top: 525px;
+}
+.trust {
+	font-family: monospace;
+	font-size: 65px;
+	color: blue;
+	position: relative;
+	left: 460px;
+	top: 510px;
+}

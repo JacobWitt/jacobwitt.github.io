@@ -1,0 +1,39 @@
+p.pages {
+   float: right;
+    display: table;
+    }
+
+p.crowd {
+   float: left;
+    display: table;
+    }
+
+h3 {
+   float: right;  
+    display: table;
+}
+
+p.thought {
+  float: left; 
+    display: table;
+}
+
+p.never {
+  float: right; 
+    display: table;
+}
+
+p.history {
+  float: left;
+    display: table;
+}
+
+p.baring {
+ float: right; 
+    display: table;
+}
+
+p.think {
+ float: left;   
+    display: table;
+}

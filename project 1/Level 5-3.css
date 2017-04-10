@@ -1,0 +1,201 @@
+body {
+background-color: black;
+    
+}
+
+.pages {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 20px;
+  position: relative;
+  text-decoration: overline;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+}
+
+.crowd {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 10px;
+  position: relative;
+  text-decoration: line-through;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+}
+
+.screen {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 14px;
+  position: relative;
+  text-decoration: underline;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+}
+
+.thought {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 10px;
+  position: relative;
+  text-decoration: line-through;
+  left: 635px;
+  top: 20px;
+  padding: 10px;
+}
+
+.Been {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 19px;
+  position: relative;
+  text-decoration: overline;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+}
+
+.Vision {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 14px;
+  position: relative;
+  text-decoration: underline;
+  left: 90px;
+  top: 20px;
+  padding: 10px;
+}
+
+.never {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 10px;
+  position: relative;
+  text-decoration: line-through;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+}
+
+.lay {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 19px;
+  position: relative;
+  text-decoration: overline;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+}
+
+.another {
+  width: 800px;
+  color: white;
+  font-family:courier;
+  font-size: 14px;
+  position: relative;
+  text-decoration: underline;
+  left: 40px;
+  top: 20px;
+  padding: 10px;
+}
+
+.hear {
+  width: 800px;
+  color: white;
+  font-family:courier;
+  font-size: 13px;
+  position: relative;
+  text-decoration: underline;
+  left: 40px;
+  top: 20px;
+  padding: 10px;
+}
+
+.history {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 10px;
+  position: relative;
+  text-decoration: line-through;
+  left: 680px;
+  top: 20px;
+  padding: 10px;
+
+}
+
+.young {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 10px;
+  position: relative;
+  text-decoration: line-through;
+  left: 680px;
+  top: 20px;
+  padding: 10px;
+
+}
+
+.strong {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 10px;
+  position: relative;
+  text-decoration: line-through;
+  left: 680px;
+  top: 20px;
+  padding: 10px;
+
+}
+
+.taught {
+ width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 20px;
+  position: relative;
+  text-decoration: overline;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+
+}
+
+.bearing {
+  width: 800px;
+  color: white;
+  font-family:courier;
+  font-size: 13px;
+  position: relative;
+  text-decoration: underline;
+  left: 40px;
+  top: 20px;
+  padding: 10px;
+}
+
+.think {
+  width: 700px;
+  color: white;
+  font-family:courier;
+  font-size: 10px;
+  position: relative;
+  text-decoration: line-through;
+  left: 50px;
+  top: 20px;
+  padding: 10px;
+}
+

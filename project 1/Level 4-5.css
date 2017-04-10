@@ -1,0 +1,61 @@
+body {
+  background-image: url("https://static.pexels.com/photos/107956/pexels-photo-107956.jpeg");
+}
+
+p.pages {
+    display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+    }
+
+p.crowd {
+   display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+    }
+
+h3 {
+   display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+}
+
+p.thought {
+    display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+}
+
+p.never {
+    display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+    
+}
+
+p.history {
+display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+}
+
+p.baring {
+   display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+}
+
+p.think {
+    
+  display:block;
+    font-family: monospace;
+    color: white;
+    background-image: url("http://www.space.com/images/i/000/062/556/original/comet-45p-23dec2016-denny.jpg?interpolation=lanczos-none&fit=around%7C640:415&crop=640:415;*,*");
+}
