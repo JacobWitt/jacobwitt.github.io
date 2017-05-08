@@ -1,0 +1,343 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Universal Reset */
+* { 
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+    font-family: "din-2014", sans-serif;
+    font-weight: regular;
+    font-size: 20px;
+    line-height: 1.4em;
+    color: black;
+}
+
+img {
+    width: 70%;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    
+}
+
+/* Typography */
+h1 {
+    font-family: "din-2014", sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.em;
+    color: black;
+    text-decoration: none;
+    font-style: normal;
+    display: block;
+    width: 50%;
+    
+}
+
+header h1 a {
+    text-decoration: none;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "din-2014", sans-serif;
+    font-weight: normal;
+    color: black;
+    font-size: 14px; 
+    float: right;  
+    line-height: 17px;
+    display: block;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 150px;
+}
+
+h3 {
+    font-family: "din-2014", sans-serif;
+    font-weight: normal;
+    color: black;
+    font-size: 14px; 
+    float: right;
+    margin-right: 20px;
+    position: bottom: 0px;   
+    line-height: 17px;  
+    display: block;
+}
+
+.mainnav {
+ font-family: "din-2014", sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.em;
+    color: black;
+    text-decoration: none;  
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    text-decoration-skip: ink;
+    
+}
+
+.content h2 {
+    margin-bottom: .5em;
+    color: red;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+    text-decoration-skip: ink;
+    
+    transition: all .5s ease;
+        -webkit-transition: all .5s ease;
+}
+
+a:hover {
+    font-style: normal;
+}
+
+.info {
+   font-family: "din-2014", sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.em;
+    color: black;
+    text-decoration: none;  
+    position: fixed;
+    bottom: 30px;
+    left: 30px; 
+    width: 40%;
+    z-index: -100;
+    background-color: #ffffff;
+    background-size: 10%;
+    padding-right: 50px;
+}
+
+.hover {
+    z-index: 9999;
+}
+
+
+
+/* Header + Navigation */
+
+header {
+    width: 100%;
+    padding: 30px;
+}
+
+.mainnav ul {
+    padding: 14px 0px 0px;
+    list-style: none;
+}
+
+.mainnav ul li {
+    margin: 0px 16px 0px 0px;
+    display: inline-block;
+}
+
+.pagination {
+   font-family: "din-2014", sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.em;
+    color: black;
+    text-decoration: none;  
+    position: fixed;
+    bottom: 30px;
+    right: 30px; 
+    max-width: 640px;
+    text-decoration: none;
+    font-style: normal;
+    display: block;
+     
+}
+
+/* Footer */
+
+footer {
+    padding: 20px;
+}
+
+/* General Layout */
+
+.content {
+    padding: 20px;
+    max-width: 640px;
+}
+
+
+
+/* Navigation Rollover */
+
+.deeper {
+    display: block;
+}
+
+.deepergif {
+    display: none;
+}
+
+.deeper:hover + .deepergif{
+   display: block;
+    
+}
+
+.failuresuccess {
+    display: block;
+}
+
+.failuresuccessgif {
+    display: none;
+}
+
+.failuresuccess:hover + .failuresuccessgif {
+   display: block;
+    
+    
+}
+
+.here2 {
+    display: block;
+}
+
+.here2gif {
+    display: none;
+}
+
+.here2:hover + .here2gif {
+   display: block;
+    
+    
+}
+
+.venicebiennaleinvitation {
+    display: block;
+}
+
+.venicebiennaleinvitationgif {
+    display: none;
+}
+
+.venicebiennaleinvitation:hover + .venicebiennaleinvitationgif {
+   display: block;
+    
+    
+}
+
+.perception {
+    display: block;
+}
+
+.perceptiongif {
+    display: none;
+}
+
+.perception:hover + .perceptiongif {
+   display: block;
+    
+    
+}
+
+.otisvisitingartistlectureseries {
+    display: block;
+}
+
+.otisvisitingartistlectureseriesgif {
+    display: none;
+}
+
+.otisvisitingartistlectureseries:hover + .otisvisitingartistlectureseriesgif {
+   display: block;
+    
+    
+}
+
+.lexusvip {
+    display: block;
+}
+
+.lexusvipgif {
+    display: none;
+}
+
+.lexusvip:hover + .lexusvipgif {
+   display: block;
+    
+    
+}
+
+.myriad {
+    display: block;
+}
+
+.myriadgif {
+    display: none;
+}
+
+.myriad:hover + .myriadgif {
+   display: block;
+    
+    
+}
+
+
+
+
+
+
+
