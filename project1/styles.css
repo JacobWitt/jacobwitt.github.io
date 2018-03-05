@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body {
+    font-family: 'Anton', 'Impact';
+    background-color: tan;
+    background-image: url('background.jpg');
+    width: 900px;
+    
+}
+
+h2, h3, h4 {
+    background-color:#f6ebb2;
+}
+
+h1 {
+    font-size: 100px;
+    text-transform: uppercase;
+    padding: 50px 0px 0px 50px;
+    width: 50%;
+}
+
+h2 {
+    font-size: 50px;
+    
+}
+
+h3 {
+    font-size: 25px;
+    
+}
+
+h4 {
+    font-size: 15px;
+}
+
+.wed {
+    width: 300px;
+    letter-spacing: 2px;
+    overflow: hidden;
+    float: left;
+    padding-top: 25px;
+    padding-left: 60px;
+    line-height: 1.2;
+}
+
+.thurs {
+    width: 400px;
+    letter-spacing: 2px;
+    overflow: hidden;
+    float: right;
+    padding-top: 155px;
+    padding-left: 25px;
+    line-height: 1.2;
+}
+
+.fri {
+    width: 300px;
+    letter-spacing: 2px;
+    overflow: hidden;
+    float:  left; 
+    padding-top: 155px;
+    padding-left: 60px;
+    line-height: 1.2;
+}
+
+.sat {
+    width: 175px;
+    letter-spacing: 2px;
+    overflow: hidden;
+    float: left;
+    padding-top: 200px;
+    padding-left: 125px;
+    line-height: 1.2;
+}
+
+.date1 {
+    float: left;
+    width: 15%;
+    padding-top: 25px;
+    padding-left: 25px;
+    line-height: 1.2;
+}
+
+.date2 {
+    float: right;
+    width: 15%;
+    padding-top: 25px;
+    padding-left: 25px;
+    line-height: 1.2;
+}
+
+.lineup {
+    float: left;
+    text-align: center;
+    width: 85%;
+
+}
+
+#address {
+  text-transform: capitalize;
+    font-size: 16.8px;
+  text-align: left;
+  float: left;
+  line-height: 1.6;
+  clear: both;
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    
+}
+
+
+footer {
+text-align: left;
+    font-size: 20px;
+clear: both;
+position: absolute;
+    left: 50px;
+    top: 900px;
+
+}
+
+
+
